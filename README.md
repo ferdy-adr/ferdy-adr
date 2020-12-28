@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, This is Ferdy Adriantama
+## Hello 👋
 [![Gmail Badge](https://img.shields.io/badge/-ferdypbg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ferdypbg@gmail.com)](mailto:ferdypbg@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-ferdyadr-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferdyadr/)](https://www.linkedin.com/in/ferdyadr/) [![Github Badge](https://img.shields.io/badge/-ferdyadr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ferdyadr/)](https://www.github.com/ferdyadr/) <p align='left'>Fresh Graduate</p>
+[![Linkedin Badge](https://img.shields.io/badge/-ferdyadr-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ferdyadr/)](https://www.linkedin.com/in/ferdyadr/) [![Github Badge](https://img.shields.io/badge/-ferdyadr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ferdyadr/)](https://www.github.com/ferdyadr/) <p align='left'>My name is Ferdy Adriantama and I'am a Web Developer.I'm from Indonesia, living in Purbalingga. You can find me on :twitter:,or on :linkedin:</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ferdyadr alt=ferdyadr /> </p>
 
