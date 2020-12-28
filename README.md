@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <!--
 **ferdy-adr/ferdy-adr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ferdyadr alt=ferdyadr /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ferdyadr&show_icons=true&include_all_commits=true)](https://github.com/ferdyadr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdyadr&layout=compact)](https://github.com/ferdyadr/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ferdyadr&show_icons=true&include_all_commits=true)](https://github.com/ferdy-adr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdyadr&layout=compact)](https://github.com/ferdy-adr/github-readme-stats)
