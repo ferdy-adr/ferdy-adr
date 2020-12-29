@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->:indonesia:	
+-->
 
 ## Hello 👋
 [![Gmail Badge](https://img.shields.io/badge/-ferdypbg@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ferdypbg@gmail.com)](mailto:ferdypbg@gmail.com) 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ferdyadr alt=ferdyadr /> </p>
 
-<p>[![Github stats](https://github-readme-stats.vercel.app/api?username=ferdy-adr&show_icons=true&include_all_commits=true)](https://github.com/ferdy-adr/github-readme-stats)</p>
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdy-adr&layout=compact)](https://github.com/ferdy-adr/github-readme-stats)</p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ferdy-adr&show_icons=true&include_all_commits=true)](https://github.com/ferdy-adr/github-readme-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdy-adr&layout=compact)](https://github.com/ferdy-adr/github-readme-stats)
