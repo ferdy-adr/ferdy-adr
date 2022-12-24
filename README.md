@@ -1,16 +1,51 @@
-### Hi there 👋
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> , I'm <a href="https://ferdy-adr.github.io/profile/">Ferdy</a></h2>
+<p align="center">
+</p>
 
-<!--
-**ferdy-adr/ferdy-adr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img align="right" height="150rem" alt="GIF" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻  I’m currently working on something cool :wink:.
+- 🌱  I’m currently learning Flutter. 
+- 💬  Ask me about anything, I am happy to help.
+<!-- - 📫  How to reach me: -->
+
+<br>
+
+### 🛠 &nbsp;Tech Stack
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-05122A?style=flat&logo=vuedotjs)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=lightblue)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=007ACC)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+<!-- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp; -->
+
+
+### ⚙️ &nbsp;My GitHub stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ferdyadr alt=ferdyadr /> </p>
+<p align="center">
+<a href="https://github.com/ferdy-adr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ferdy-adr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ferdy-adr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+<!-- Github Stats White -->
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=ferdy-adr&show_icons=true&include_all_commits=true)](https://github.com/ferdy-adr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdy-adr&layout=compact)](https://github.com/ferdy-adr/github-readme-stats) -->
+
+
+<!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
